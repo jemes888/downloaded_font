@@ -1,0 +1,12 @@
+@font-face{
+	font-family:Awesome_Season_Personal_Use ;
+	src:url(../fonts/Awesome_Season_Personal_Use.ttf);
+}body{
+	margin: 0;
+	padding: 0;
+}
+p {
+	font-family: Awesome_Season_Personal_Use;
+	    font-size: 40px;
+    margin-left: 85px;
+}
